@@ -1,2 +1,10 @@
 # resumo-da-lab
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+
+A computação em nuvem com a Microsoft Azure representa uma estratégia essencial para empresas que buscam escalabilidade, alta disponibilidade e conformidade com padrões rigorosos. Este laboratório tem como objetivo demonstrar, na prática, os benefícios estratégicos dessa tecnologia por meio da criação de uma Máquina Virtual (VM) altamente disponível, garantindo conformidade com os níveis de SLA (Service Level Agreement) estabelecidos pela Microsoft. Em um cenário de transformação digital acelerada, a adoção da nuvem é um dos principais pilares para organizações modernas, oferecendo maior eficiência operacional e segurança.
+
+A escalabilidade dinâmica e a eficiência operacional do Microsoft Azure permitem a expansão ou redução automática dos recursos computacionais, garantindo que os sistemas operem sem desperdício de capacidade ou custos desnecessários. Com ajuste de capacidade sob demanda, automação inteligente e otimização de custos, as empresas podem garantir desempenho ideal para aplicações com cargas de trabalho variáveis. Além disso, a alta disponibilidade e a tolerância a falhas são asseguradas por uma infraestrutura global robusta, composta por data centers estrategicamente distribuídos, proporcionando redundância geográfica, balanceamento de carga automático e soluções avançadas de recuperação de desastres.
+
+Os SLAs oferecidos pela Microsoft garantem níveis elevados de disponibilidade, podendo alcançar até 99,99% mensal, além de uma infraestrutura projetada para segurança avançada. Isso permite que as empresas utilizem serviços em nuvem com maior confiança e previsibilidade. Neste laboratório, tive a oportunidade  de aprender e visualizar a construção de uma infraestrutura resiliente, explorando práticas fundamentais de alta disponibilidade e continuidade dos serviços. 
+
+ A computação em nuvem pode impulsionar inovação, segurança e eficiência nas operações empresariais.
