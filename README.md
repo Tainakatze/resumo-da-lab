@@ -1,5 +1,3 @@
-#Implementação eficiente no Microsoft Azure. 
-
 # Guia Estratégico: Infraestrutura, Automação e Alta Disponibilidade no Microsoft Azure 
 
 ## **🌍 Introdução**  
@@ -94,7 +92,7 @@ Azure-Infra
  ├── 📂 scripts   (Automação via Terraform e Azure CLI)  
 ```
 
-## **📌 Conclusão**  
+#📌 Conclusão
 
 A **computação em nuvem impulsiona inovação, segurança e eficiência operacional**, permitindo que empresas **escalem recursos sob demanda, otimizem custos e garantam alta disponibilidade**.  
 
