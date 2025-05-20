@@ -78,22 +78,6 @@ Esse modelo de busca **reduz esforços manuais**, melhora a relevância dos resu
 
 O **Terraform** e o **Azure Bicep** permitem a **provisionamento automatizado de recursos**, garantindo eficiência operacional.  
 
-## **📂 Organização do Repositório para Melhor Gestão**  
-
-Recomenda-se uma estrutura organizada de repositório para facilitar a navegação:  
-
-Azure-Infra  
- ├── 📂 imagens   (Capturas de tela das configurações)  
- ├── 📂 documentos (Tutoriais e guias técnicos)  
- ├── 📜 README.md  (Visão geral do projeto)  
- ├── 📜 VM-config.md  (Configuração detalhada de máquinas virtuais)  
- ├── 📜 SQL-config.md (Passo a passo para banco de dados)  
- ├── 📜 segurança.md  (Melhores práticas para proteção de dados)  
- ├── 📂 scripts   (Automação via Terraform e Azure CLI)  
-```
-
-
----
 
 ## **📌 Conclusão**  
 
