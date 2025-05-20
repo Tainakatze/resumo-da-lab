@@ -5,7 +5,7 @@
 A computação em nuvem com o Microsoft Azure é uma estratégia essencial para organizações que buscam escalabilidade, alta disponibilidade e conformidade com padrões rigorosos. O Azure oferece recursos avançados de gestão de infraestrutura, permitindo que empresas expandam ou reduzam automaticamente seus recursos computacionais, garantindo desempenho ideal, segurança aprimorada e otimização de custos.  
 Com uma infraestrutura global robusta, composta por data centers estrategicamente distribuídos, o Azure proporciona redundância geográfica, balanceamento de carga automático e recuperação de desastres, assegurando alta disponibilidade e tolerância a falhas.  
 
-Este guia da lab apresenta um passo a passo atualizado para a configuração de Máquinas Virtuais (VMs), Bancos de Dados SQL e otimização de buscas com Azure AI Search, explorando práticas avançadas de segurança, automação e monitoramento estratégico para maximizar a eficiência operacional dos sistemas em nuvem.  
+Este guia do laboratório apresenta um passo a passo atualizado para a configuração de Máquinas Virtuais (VMs), Bancos de Dados SQL e otimização de buscas com Azure AI Search, explorando práticas avançadas de segurança, automação e monitoramento estratégico para maximizar a eficiência operacional dos sistemas em nuvem.  
 
 ## **🚀 Criando sua Conta no Azure**  
 
@@ -22,7 +22,7 @@ As **Máquinas Virtuais (VMs)** no Azure são essenciais para hospedar aplicaç�
 
 ### **📌 Criando uma Máquina Virtual altamente disponível**  
 
-A criação de uma **VM com alta disponibilidade** garante conformidade com os **SLAs (Service Level Agreements) da Microsoft**, permitindo **redundância, recuperação rápida de falhas e desempenho contínuo**.  
+A criação de uma VM com alta disponibilidade garante conformidade com os SLAs (Service Level Agreements) da Microsoft, permitindo redundância, recuperação rápida de falhas e desempenho contínuo.  
 
 1️⃣ No **Azure Portal**, acesse a seção **Máquinas Virtuais**.  
 2️⃣ Clique em **"Criar"** → "**Nova Máquina Virtual**".  
@@ -63,7 +63,7 @@ O **Azure SQL Database** oferece um ambiente altamente disponível e seguro para
 
 ## **🔎 Azure AI Search: Busca Inteligente e Recuperação de Dados**  
 
-O **Azure AI Search** aprimora a pesquisa de informações utilizando **indexação semântica, aprendizado de máquina e busca vetorial**, tornando consultas **mais naturais e precisas**.  
+O Azure AI Search aprimora a pesquisa de informações utilizando indexação semântica, aprendizado de máquina e busca vetorial, tornando consultas mais naturais e precisas.  
 
 ### **📌 Benefícios da Busca Inteligente**  
 
@@ -72,16 +72,16 @@ O **Azure AI Search** aprimora a pesquisa de informações utilizando **indexaç
 ✔ **Classificação Aprimorada** → Organização dos resultados conforme relevância.  
 ✔ **Busca Vetorial** → Identificação de padrões e relações entre conteúdos.  
 
-Esse modelo de busca **reduz esforços manuais**, melhora a relevância dos resultados e **torna a recuperação de dados mais eficiente**.  
+Esse modelo de busca reduz esforços manuais, melhora a relevância dos resultados e torna a recuperação de dados mais eficiente.  
 
 ## **🔄 Automação e Infraestrutura como Código (IaC)**  
 
-O **Terraform** e o **Azure Bicep** permitem a **provisionamento automatizado de recursos**, garantindo eficiência operacional.  
+O Terraform e o Azure Biceppermitem a provisionamento automatizado de recursos, garantindo eficiência operacional.  
 
 
 ## **📌 Conclusão**  
 
-A **computação em nuvem impulsiona inovação, segurança e eficiência operacional**, permitindo que empresas **escalem recursos sob demanda, otimizem custos e garantam alta disponibilidade**.  
+A computação em nuvem impulsiona inovação, segurança e eficiência operacional, permitindo que empresas escalem recursos sob demanda, otimizem custos e garantam alta disponibilidade.  
 
-Com a adoção de **Máquinas Virtuais, Bancos de Dados SQL e Azure AI Search**, as organizações podem **gerenciar seus sistemas com flexibilidade, inteligência e confiabilidade**, alinhando suas infraestruturas às **melhores práticas globais de tecnologia**.
+Com a adoção de Máquinas Virtuais, Bancos de Dados SQL e Azure AI Search, as organizações podem gerenciar seus sistemas com flexibilidade, inteligência e confiabilidade, alinhando suas infraestruturas às melhores práticas globais de tecnologia.
 
