@@ -111,9 +111,9 @@ Após acessar o **Portal do Azure**, siga as etapas abaixo para configurar um ba
    - **Modo de Autenticação** (SQL Server ou Azure Active Directory);  
    - **Dimensionamento da Instância**, conforme necessidade;  
    - **Configuração de Rede** (acesso público ou privado).  
-4. **Revise todas as configurações** e clique em **"Criar"**.  
+4. Revise todas as configurações** e clique em "Criar".  
 
-📌 **Dica:** Para workloads críticas, escolha instâncias **Premium**, que oferecem melhor desempenho e alta disponibilidade. Para testes ou desenvolvimento, **Basic** ou **General Purpose** são boas alternativas.  
+📌 **Dica:** Para workloads críticas, escolha instâncias Premium, que oferecem melhor desempenho e alta disponibilidade. Para testes ou desenvolvimento, Basic ou General Purpose são boas alternativas.  
 
 ### **Melhores Práticas para Banco de Dados no Azure**  
 - **Segurança:** Utilize **TDE (Transparent Data Encryption)** para criptografar dados em repouso e **SQL Auditing** para monitoramento.  
@@ -124,14 +124,14 @@ Após acessar o **Portal do Azure**, siga as etapas abaixo para configurar um ba
 Após a criação da instância, utilize uma ferramenta adequada para gerenciar seu banco de dados:  
 
 #### **Via SQL Server Management Studio (SSMS):**  
-1. **Baixe e instale o SSMS** ([Download SSMS](https://aka.ms/ssms)).  
-2. Abra o software e selecione **"Nova Conexão"**.  
-3. Insira o **nome do servidor** e as credenciais.  
-4. Clique em **"Conectar"** para acessar o banco de dados.  
+1. Baixe e instale o SSMS ([Download SSMS](https://aka.ms/ssms)).  
+2. Abra o software e selecione "Nova Conexão".  
+3. Insira o nome do servidor e as credenciais.  
+4. Clique em "Conectar" para acessar o banco de dados.  
 
 #### **Via Azure Data Studio:**  
 1. **Baixe e instale o Azure Data Studio** ([Download Azure Data Studio](https://aka.ms/azuredatastudio)).  
-2. Adicione uma **nova conexão**.  
+2. Adicione uma nova conexão.  
 3. Preencha os detalhes de autenticação do banco de dados.  
 4. Inicie suas consultas SQL.  
 
@@ -141,10 +141,13 @@ Após a criação da instância, utilize uma ferramenta adequada para gerenciar 
 
 Para evitar gastos excessivos e manter um ambiente eficiente, siga estas práticas:  
 
-✅ **Monitoramento ativo:** Utilize **Azure Cost Management** para acompanhar o consumo de recursos.  
-✅ **Reservas e descontos:** Considere **Instâncias Reservadas** para obter descontos de longo prazo.  
-✅ **Desativação automática:** Configure **VM Auto-Shutdown** para desligar máquinas fora do horário de uso.  
-✅ **Aproveitamento de créditos gratuitos:** Explore planos **Pay-as-you-go** e **Azure Sponsorship** para reduzir custos.  
+✅ Monitoramento ativo:
+Utilize Azure Cost Management para acompanhar o consumo de recursos.  
+✅ Reservas e descontos:
+Considere Instâncias Reservadas para obter descontos de longo prazo.  
+✅ Desativação automática:
+Configure VM Auto-Shutdown para desligar máquinas fora do horário de uso.  
+✅ Aproveitamento de créditos gratuitos: Explore planos Pay-as-you-go e Azure Sponsorship para reduzir custos.  
 
 ---
 
