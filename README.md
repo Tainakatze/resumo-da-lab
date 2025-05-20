@@ -116,6 +116,6 @@ Para evitar gastos excessivos e manter um ambiente eficiente, siga estas prátic
 ## **📌 Conclusão**  
 
 A computação em nuvem impulsiona inovação, segurança e eficiência operacional, permitindo que empresas escalem recursos sob demanda, otimizem custos e garantam alta disponibilidade.  
-O **Microsoft Azure** oferece um ambiente poderoso e flexível para implantação de **Máquinas Virtuais** e **Instâncias de Banco de Dados**, permitindo escalabilidade, segurança e otimização de custos. Este guia forneceu uma base sólida para iniciar sua jornada na nuvem, cobrindo desde a configuração inicial até melhores práticas para gerenciamento eficiente dos recursos.  
+O Microsoft Azure oferece um ambiente poderoso e flexível para implantação de Máquinas Virtuais e Instâncias de Banco de Dados, permitindo escalabilidade, segurança e otimização de custos. Este guia forneceu uma base sólida para iniciar sua jornada na nuvem, cobrindo desde a configuração inicial até melhores práticas para gerenciamento eficiente dos recursos.  
 
 
