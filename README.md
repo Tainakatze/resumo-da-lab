@@ -5,7 +5,42 @@
 A computação em nuvem com o Microsoft Azure é uma estratégia essencial para organizações que buscam escalabilidade, alta disponibilidade e conformidade com padrões rigorosos. O Azure oferece recursos avançados de gestão de infraestrutura, permitindo que empresas expandam ou reduzam automaticamente seus recursos computacionais, garantindo desempenho ideal, segurança aprimorada e otimização de custos.  
 Com uma infraestrutura global robusta, composta por data centers estrategicamente distribuídos, o Azure proporciona redundância geográfica, balanceamento de carga automático e recuperação de desastres, assegurando alta disponibilidade e tolerância a falhas.  
 
-Este laboratório apresenta um passo a passo atualizado para a configuração de Máquinas Virtuais (VMs), Bancos de Dados SQL e otimização de buscas com Azure AI Search, explorando práticas avançadas de segurança, automação e monitoramento estratégico para maximizar a eficiência operacional dos sistemas em nuvem, serve como referência detalhada para a implantação de **Máquinas Virtuais (VMs)** e **Instâncias de Banco de Dados** na plataforma **Microsoft Azure**. Além de instruções claras, ele aborda boas práticas, segurança, gerenciamento de custos e otimização de recursos para um ambiente eficiente e escalável na nuvem.  
+## 🔍 Entendendo o SLA no Azure  
+
+A disponibilidade de um serviço é um fator essencial para qualquer aplicação na nuvem. O **Service Level Agreement (SLA)** é um compromisso da Microsoft que define o tempo mínimo esperado de operação para seus serviços.  
+
+💡 **A importância do SLA**  
+- Garante previsibilidade e estabilidade para sistemas críticos.  
+- Minimiza riscos de interrupção inesperada.  
+- Auxilia na escolha de serviços conforme as necessidades do negócio.  
+
+📊 **Exemplos de SLA no Azure:**  
+
+| Serviço | SLA mensal estimado |
+|---------|---------------------|
+| Máquinas Virtuais (isoladas) | 99,9% |
+| VM distribuída em duas zonas | 99,99% |
+| Armazenamento Blob (LRS) | 99,9% |
+| Banco de Dados SQL | 99,99% |
+
+📢 **Dica:** Para **cargas de trabalho essenciais**, serviços com redundância garantem **altos níveis de disponibilidade** e reduzem riscos.  
+
+---
+
+## 🏗️ Zonas de Disponibilidade: Blindagem contra Falhas  
+
+As **Zonas de Disponibilidade** são datacenters independentes dentro da mesma região do Azure. Cada um possui infraestrutura própria de energia, rede e refrigeração, garantindo que falhas locais não comprometam seus serviços.  
+
+💡 **Por que usar Zonas de Disponibilidade?**  
+✅ Protege aplicações contra falhas físicas inesperadas.  
+✅ Eleva o SLA para serviços distribuídos entre múltiplas zonas.  
+✅ Garante continuidade operacional em eventos adversos.  
+
+🔄 **Estratégia recomendada:**  
+Para aplicações críticas, distribuir recursos entre várias zonas é essencial para manter desempenho contínuo e maior segurança.  
+
+
+Implantação de Máquinas Virtuais (VMs) e Instâncias de Banco de Dados na plataforma Microsoft Azure. Além de instruções claras, ele aborda boas práticas, segurança, gerenciamento de custos e otimização de recursos para um ambiente eficiente e escalável na nuvem.  
 
 ## **1️⃣ Criando uma Conta no Microsoft Azure**  
 
