@@ -92,10 +92,12 @@ Azure-Infra
  ├── 📂 scripts   (Automação via Terraform e Azure CLI)  
 ```
 
-#📌 Conclusão
+
+---
+
+## **📌 Conclusão**  
 
 A **computação em nuvem impulsiona inovação, segurança e eficiência operacional**, permitindo que empresas **escalem recursos sob demanda, otimizem custos e garantam alta disponibilidade**.  
 
-Com a adoção de **Máquinas Virtuais, Bancos de Dados SQL e Azure AI Search**, as organizações podem **gerenciar seus sistemas com flexibilidade, inteligência e confiabilidade**, alinhando suas infraestruturas às **melhores práticas globais de tecnologia**.  
-
+Com a adoção de **Máquinas Virtuais, Bancos de Dados SQL e Azure AI Search**, as organizações podem **gerenciar seus sistemas com flexibilidade, inteligência e confiabilidade**, alinhando suas infraestruturas às **melhores práticas globais de tecnologia**.
 
